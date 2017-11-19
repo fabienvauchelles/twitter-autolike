@@ -1,0 +1,12 @@
+{
+  "name": "twitter-autolike",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Fabien Vauchelles <fabien@vauchelles.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "~3.5.1",
+    "twit": "~2.2.9",
+    "winston": "~2.4.0"
+  }
+}
